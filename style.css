@@ -61,3 +61,10 @@ button {
 button:hover {
   background: #1b5e20;
 }
+.project {
+  transition: transform 0.2s;
+}
+
+.project:hover {
+  transform: translateY(-5px);
+}
