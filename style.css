@@ -68,3 +68,11 @@ button:hover {
 .project:hover {
   transform: translateY(-5px);
 }
+header {
+  border-bottom-left-radius: 25px;
+  border-bottom-right-radius: 25px;
+}
+
+header h1 {
+  letter-spacing: 1px;
+}
