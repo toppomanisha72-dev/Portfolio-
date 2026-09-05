@@ -76,3 +76,12 @@ header {
 header h1 {
   letter-spacing: 1px;
 }
+.skills span {
+  display: inline-block;
+  background: #e8f5e9;
+  color: #2e7d32;
+  padding: 8px 12px;
+  margin: 5px;
+  border-radius: 8px;
+  font-weight: bold;
+}
