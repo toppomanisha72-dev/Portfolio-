@@ -85,3 +85,10 @@ header h1 {
   border-radius: 8px;
   font-weight: bold;
 }
+.project h3 {
+  font-size: 18px;
+}
+
+.project p {
+  line-height: 1.6;
+}
