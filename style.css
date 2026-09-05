@@ -92,3 +92,7 @@ header h1 {
 .project p {
   line-height: 1.6;
 }
+h2 {
+  border-bottom: 2px solid #e8f5e9;
+  padding-bottom: 8px;
+    }
